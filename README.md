@@ -9,3 +9,7 @@ Professor: Dr. Olaf Schenk
 TA: Pratuksh Bansal
 
 Required modules: gcc, intel-mkl, gnuplot
+
+Assignment: project.pdf, project-info.pdf
+
+Final Report: Report.pdf
